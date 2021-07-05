@@ -16,7 +16,7 @@ would be placed.
 
 2. User can enter an expression whose BODMAS value will be calculated and printed.
 
-3. Using the BODMAS value calcuated user can also view Quadraples generated for above expression.
+3. Using the BODMAS value calculated user can also view Quadruples generated for above expression.
 
 4. User can also view all the steps followed in calculation of BODMAS on console.
 
